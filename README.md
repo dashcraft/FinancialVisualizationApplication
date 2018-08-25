@@ -7,9 +7,8 @@ https://www.nuget.org/packages/FinancialVisualizationApplication/
 ### TL;DR
 
 ```bash
-> dotnet new -i FinancialVisualizationApplication
-> dotnet new reactes6 -n NewSite.Web
-> cd NewSite.Web
+> dotnet new reactes6 -n FinancialVisualizationApplication
+> cd FinancialVisualizationApplication
 > dotnet restore && npm install
 > dotnet run
 > code .
